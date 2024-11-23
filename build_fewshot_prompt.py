@@ -3,7 +3,7 @@ import pandas as pd
 def format_conversation(conversation):
     conv_str = ''
     for message in conversation:
-        conv_str += f"## {message['role']}\n{message['message']}\n"
+        conv_str += f"## {message['role']}\n{message['content']}\n"
         
     return conv_str
 

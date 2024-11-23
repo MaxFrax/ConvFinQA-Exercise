@@ -32,11 +32,11 @@ for t in tqdm(train):
 
         conversation.append({
             "role": "user",
-            "message": user_message
+            "content": str(user_message)
         })
         conversation.append({
             "role": "assistant",
-            "message": a
+            "content": str(a)
         })
     dataset.append(conversation)
     file_names.append(t['filename'])
