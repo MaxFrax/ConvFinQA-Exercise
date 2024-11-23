@@ -52,6 +52,7 @@ async def main():
                         'role': 'system'
                     }
 
+    dataset['reference'] = dataset['messages'].apply(lambda x: eval(x)[-1]['content'])
     dataset['messages'] = dataset['messages'].apply(lambda x: [system_prompt] + eval(x)[:-1])
 
     generations = await asyncio.gather(*[runpod_model(conversation) for conversation in dataset['messages']])
