@@ -1,0 +1,53 @@
+# Example 1
+## user
+devon energy corporation and subsidiaries notes to consolidated financial statements 2013 ( continued ) proved undeveloped reserves the following table presents the changes in devon 2019s total proved undeveloped reserves during 2014 ( in mmboe ) . .
+<table class='wikitable'><tr><td>1</td><td></td><td>u.s .</td><td>canada</td><td>total</td></tr><tr><td>2</td><td>proved undeveloped reserves as of december 31 2013</td><td>258</td><td>443</td><td>701</td></tr><tr><td>3</td><td>extensions and discoveries</td><td>153</td><td>8</td><td>161</td></tr><tr><td>4</td><td>revisions due to prices</td><td>-1 ( 1 )</td><td>-34 ( 34 )</td><td>-35 ( 35 )</td></tr><tr><td>5</td><td>revisions other than price</td><td>-61 ( 61 )</td><td>18</td><td>-43 ( 43 )</td></tr><tr><td>6</td><td>sale of reserves</td><td>-4 ( 4 )</td><td>-2 ( 2 )</td><td>-6 ( 6 )</td></tr><tr><td>7</td><td>conversion to proved developed reserves</td><td>-40 ( 40 )</td><td>-49 ( 49 )</td><td>-89 ( 89 )</td></tr><tr><td>8</td><td>proved undeveloped reserves as of december 31 2014</td><td>305</td><td>384</td><td>689</td></tr></table>
+at december 31 , 2014 , devon had 689 mmboe of proved undeveloped reserves . this represents a 2 percent decrease as compared to 2013 and represents 25 percent of total proved reserves . drilling and development activities increased devon 2019s proved undeveloped reserves 161 mmboe and resulted in the conversion of 89 mmboe , or 13 percent , of the 2013 proved undeveloped reserves to proved developed reserves . costs incurred related to the development and conversion of devon 2019s proved undeveloped reserves were approximately $ 1.0 billion for 2014 . additionally , revisions other than price decreased devon 2019s proved undeveloped reserves 43 mmboe primarily due to evaluations of certain u.s . onshore dry-gas areas , which devon does not expect to develop in the next five years . the largest revisions , which were approximately 69 mmboe , relate to the dry-gas areas in the barnett shale in north texas . a significant amount of devon 2019s proved undeveloped reserves at the end of 2014 related to its jackfish operations . at december 31 , 2014 and 2013 , devon 2019s jackfish proved undeveloped reserves were 384 mmboe and 441 mmboe , respectively . development schedules for the jackfish reserves are primarily controlled by the need to keep the processing plants at their 35000 barrel daily facility capacity . processing plant capacity is controlled by factors such as total steam processing capacity and steam-oil ratios . furthermore , development of these projects involves the up-front construction of steam injection/distribution and bitumen processing facilities . due to the large up-front capital investments and large reserves required to provide economic returns , the project conditions meet the specific circumstances requiring a period greater than 5 years for conversion to developed reserves . as a result , these reserves are classified as proved undeveloped for more than five years . currently , the development schedule for these reserves extends though the year 2031 . price revisions 2014 2013 reserves increased 9 mmboe primarily due to higher gas prices in the barnett shale and the anadarko basin , partially offset by higher bitumen prices , which result in lower after-royalty volumes , in canada . 2013 2013 reserves increased 94 mmboe primarily due to higher gas prices . of this increase , 43 mmboe related to the barnett shale and 19 mmboe related to the rocky mountain area . 2012 2013 reserves decreased 171 mmboe primarily due to lower gas prices . of this decrease , 100 mmboe related to the barnett shale and 25 mmboe related to the rocky mountain area. .
+
+what portion of total proved undeveloped reserves is in the us in 2013?
+## assistant
+0.36805
+
+# Example 2
+## user
+american tower corporation and subsidiaries notes to consolidated financial statements ( 3 ) consists of customer-related intangibles of approximately $ 75.0 million and network location intangibles of approximately $ 72.7 million . the customer-related intangibles and network location intangibles are being amortized on a straight-line basis over periods of up to 20 years . ( 4 ) the company expects that the goodwill recorded will be deductible for tax purposes . the goodwill was allocated to the company 2019s international rental and management segment . on september 12 , 2012 , the company entered into a definitive agreement to purchase up to approximately 348 additional communications sites from telef f3nica mexico . on september 27 , 2012 and december 14 , 2012 , the company completed the purchase of 279 and 2 communications sites , for an aggregate purchase price of $ 63.5 million ( including value added tax of $ 8.8 million ) . the following table summarizes the preliminary allocation of the aggregate purchase consideration paid and the amounts of assets acquired and liabilities assumed based upon their estimated fair value at the date of acquisition ( in thousands ) : preliminary purchase price allocation .
+<table class='wikitable'><tr><td>1</td><td></td><td>preliminary purchase price allocation</td></tr><tr><td>2</td><td>current assets</td><td>$ 8763</td></tr><tr><td>3</td><td>non-current assets</td><td>2332</td></tr><tr><td>4</td><td>property and equipment</td><td>26711</td></tr><tr><td>5</td><td>intangible assets ( 1 )</td><td>21079</td></tr><tr><td>6</td><td>other non-current liabilities</td><td>-1349 ( 1349 )</td></tr><tr><td>7</td><td>fair value of net assets acquired</td><td>$ 57536</td></tr><tr><td>8</td><td>goodwill ( 2 )</td><td>5998</td></tr></table>
+( 1 ) consists of customer-related intangibles of approximately $ 10.7 million and network location intangibles of approximately $ 10.4 million . the customer-related intangibles and network location intangibles are being amortized on a straight-line basis over periods of up to 20 years . ( 2 ) the company expects that the goodwill recorded will be deductible for tax purposes . the goodwill was allocated to the company 2019s international rental and management segment . on november 16 , 2012 , the company entered into an agreement to purchase up to 198 additional communications sites from telef f3nica mexico . on december 14 , 2012 , the company completed the purchase of 188 communications sites , for an aggregate purchase price of $ 64.2 million ( including value added tax of $ 8.9 million ) . .
+
+what was the total in acquired customer-related and network location intangibles, from american tower corporation and subsidiaries notes to consolidated financial statements, in millions?
+## assistant
+147.7
+## user
+and what is the expected period in which those location intangibles will be amortized, in years?
+## assistant
+20.0
+## user
+what is, then, the expected annual amortization expenses, in millions?
+## assistant
+7.385
+## user
+from that same company, what was the value of current assets, from preliminary allocation of the aggregate purchase consideration paid and the amounts of assets acquired and liabilities assumed based upon their estimated fair value at the date of acquisition?
+## assistant
+11095.0
+## user
+and what is the total sum of those current assets and the non-current ones?
+## assistant
+37806.0
+## user
+including property and equipment, what then becomes that sum?
+## assistant
+21079.0
+## user
+and including the intangible assets, what becomes this total?
+## assistant
+58885.0
+## user
+what was the fair value of net assets acquired?
+## assistant
+57536.0
+## user
+how much, then, does that total represent in relation to this fair value?
+## assistant
+1.02345
+
+You are an assistant tasked with answering financial questions accurately. The user will provide contextual information and a question, and you must respond precisely, relying solely on the conversation history. Provide your answer as a single number only, like in Example 1 and Example 2.
