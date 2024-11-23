@@ -175,3 +175,7 @@ cython_debug/
 text_transformation_pipeline/data/http_ca.crt
 
 wandb/
+
+# Dataset files
+*.json
+*.parquet
