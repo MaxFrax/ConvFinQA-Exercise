@@ -7,8 +7,10 @@ def str_to_float(s):
     s = s.replace(',', '')
     try:
         return float(s)
-    except:
-        raise
+    except Exception as e:
+        print(e)
+        print('Error converting ' + s)
+        return float('nan')
 
 argparser = argparse.ArgumentParser()
 argparser.add_argument('input', type=str, help='Generations file')
@@ -76,14 +78,17 @@ print()
 # Note: I'm keeping a decimal since rounding everything to int creates a lot of matching zeros
 print('Does the number exists somewhere in the generated text represented with only one decimal?')
 count = 0
+total = 0
 
 for reference, extracted in zip(data['reference'], data['extracted_numbers']):
     try:
         shortened_ref = f'{float(reference):.1f}'
+        total += 1
     except:
         continue
 
     if shortened_ref in [f'{str_to_float(x):.1}' for x in extracted]:
         count += 1
 
-print(f'Accuracy: {count / len(data)*100:.3f}%')
+print(f'Accuracy: {count / total*100:.3f}%')
+print(f'Total: {total}. References not numbers: {len(data) - total}')

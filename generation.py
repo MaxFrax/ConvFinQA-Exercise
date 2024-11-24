@@ -31,7 +31,6 @@ async def runpod_model(conversation):
             generated_text = response.choices[0].message.content
         except Exception as e:
             print(f"Error: {e}")
-            print(response)
             return None
 
         return generated_text
