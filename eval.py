@@ -48,11 +48,10 @@ print()
 
 # Is there the same number in the string?
 print('Is the answer represented in the same way somewhere in the generated text?')
-
 count = 0
 somewhere = []
-for reference, extracted in zip(data['reference'], data['extracted_numbers']):
-    if reference in extracted:
+for reference, generated in zip(data['reference'], data['generated_text']):
+    if str(reference) in generated:
         count += 1
         somewhere.append(True)
     else:
