@@ -25,7 +25,7 @@ print(model.active_adapter)
 model = model.merge_and_unload()
 model.save_pretrained(args.output_folder)
 if args.hf_name:
-    model.push_to_hub(args.hf_name,private=True, token=HF_TOKEN)
+    model.push_to_hub(f'maxfrax/{args.hf_name}',private=True, token=HF_TOKEN)
 
     tokenizer = AutoTokenizer.from_pretrained(MODEL_NAME, token=HF_TOKEN)
-    tokenizer.push_to_hub(args.hf_name, private=True, token=HF_TOKEN)
+    tokenizer.push_to_hub(f'maxfrax/{args.hf_name}', private=True, token=HF_TOKEN)
